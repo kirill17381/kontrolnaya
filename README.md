@@ -1,1 +1,1 @@
-# kontrolnaya
+# kontrolnaya by Kirill Kolesnikovich
